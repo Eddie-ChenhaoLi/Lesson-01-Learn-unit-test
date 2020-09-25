@@ -28,4 +28,6 @@ class Calculate(unittest.TestCase):
 ```
 
 ### 4. Exercise
-1.Complete the 'test_calculate.py' to test method 'add(a,b)' and method 'subtract(a,b)' in the 'calculate.py'
+1.Fill in the blanks in 'test_person_01.py' and pass the tests.
+2.Find the errors in 'test_person_02.py' and correct them.
+3.Complete 'test_person_03.py' and pass the tests.
