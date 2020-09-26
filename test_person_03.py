@@ -1,4 +1,6 @@
 import unittest
 from person import Person
 
-# TODO
+
+class TestPerson(unittest.TestCase):
+    #TODO
